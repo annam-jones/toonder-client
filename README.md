@@ -65,3 +65,14 @@ Front end
 
 - Create Profile 
 <img width="1463" alt="Toonder_2" src="https://github.com/user-attachments/assets/4a0f9672-0b83-4588-bbfa-b215a44e1132" />
+
+## Challenges Faced
+
+- Authentication Implementation: Creating a secure login and signup system with JWT tokens required careful handling of user credentials and session management.
+- Conditional Navigation: Building a dynamic navbar that responds to authentication state meant ensuring proper context management and state updates.
+- API Integration: Connecting our frontend React components with the Express backend required careful consideration of data flow, error handling, and asynchronous operations.
+
+## Future Improvements 
+
+- Real-time Messaging: Integrate WebSocket technology to enable instant messaging between matched profiles, improving user engagement and creating a more dynamic interaction experience.
+- Enhanced Profile Customization: Implement additional character customization options, including more personality traits, background stories, and expanded visual customization to create more unique character profiles.
